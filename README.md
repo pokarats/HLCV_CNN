@@ -1,4 +1,4 @@
-# HLCV_CNN_assignment3
+# High-Level Computer Vision: CNN Implementation and Fine-Tuning Pre-trained Image-Net Pre-trained Model for Image Classification
 
 ## Requirements
 
